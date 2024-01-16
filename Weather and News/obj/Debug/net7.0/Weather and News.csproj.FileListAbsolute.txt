@@ -1,0 +1,31 @@
+C:\Users\SBB\OneDrive\Desktop\SB\Weather and News\Weather and News\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\SBB\OneDrive\Desktop\SB\Weather and News\Weather and News\bin\Debug\net7.0\appsettings.json
+C:\Users\SBB\OneDrive\Desktop\SB\Weather and News\Weather and News\bin\Debug\net7.0\Weather and News.staticwebassets.runtime.json
+C:\Users\SBB\OneDrive\Desktop\SB\Weather and News\Weather and News\bin\Debug\net7.0\Weather and News.exe
+C:\Users\SBB\OneDrive\Desktop\SB\Weather and News\Weather and News\bin\Debug\net7.0\Weather and News.deps.json
+C:\Users\SBB\OneDrive\Desktop\SB\Weather and News\Weather and News\bin\Debug\net7.0\Weather and News.runtimeconfig.json
+C:\Users\SBB\OneDrive\Desktop\SB\Weather and News\Weather and News\bin\Debug\net7.0\Weather and News.dll
+C:\Users\SBB\OneDrive\Desktop\SB\Weather and News\Weather and News\bin\Debug\net7.0\Weather and News.pdb
+C:\Users\SBB\OneDrive\Desktop\SB\Weather and News\Weather and News\obj\Debug\net7.0\Weather and News.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SBB\OneDrive\Desktop\SB\Weather and News\Weather and News\obj\Debug\net7.0\Weather and News.AssemblyInfoInputs.cache
+C:\Users\SBB\OneDrive\Desktop\SB\Weather and News\Weather and News\obj\Debug\net7.0\Weather and News.AssemblyInfo.cs
+C:\Users\SBB\OneDrive\Desktop\SB\Weather and News\Weather and News\obj\Debug\net7.0\Weather and News.csproj.CoreCompileInputs.cache
+C:\Users\SBB\OneDrive\Desktop\SB\Weather and News\Weather and News\obj\Debug\net7.0\Weather and News.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\SBB\OneDrive\Desktop\SB\Weather and News\Weather and News\obj\Debug\net7.0\Weather and News.RazorAssemblyInfo.cache
+C:\Users\SBB\OneDrive\Desktop\SB\Weather and News\Weather and News\obj\Debug\net7.0\Weather and News.RazorAssemblyInfo.cs
+C:\Users\SBB\OneDrive\Desktop\SB\Weather and News\Weather and News\obj\Debug\net7.0\staticwebassets\msbuild.Weather and News.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\SBB\OneDrive\Desktop\SB\Weather and News\Weather and News\obj\Debug\net7.0\staticwebassets\msbuild.build.Weather and News.props
+C:\Users\SBB\OneDrive\Desktop\SB\Weather and News\Weather and News\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Weather and News.props
+C:\Users\SBB\OneDrive\Desktop\SB\Weather and News\Weather and News\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Weather and News.props
+C:\Users\SBB\OneDrive\Desktop\SB\Weather and News\Weather and News\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\SBB\OneDrive\Desktop\SB\Weather and News\Weather and News\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\SBB\OneDrive\Desktop\SB\Weather and News\Weather and News\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\SBB\OneDrive\Desktop\SB\Weather and News\Weather and News\obj\Debug\net7.0\scopedcss\Shared\MainLayout.razor.rz.scp.css
+C:\Users\SBB\OneDrive\Desktop\SB\Weather and News\Weather and News\obj\Debug\net7.0\scopedcss\Shared\NavMenu.razor.rz.scp.css
+C:\Users\SBB\OneDrive\Desktop\SB\Weather and News\Weather and News\obj\Debug\net7.0\scopedcss\bundle\Weather and News.styles.css
+C:\Users\SBB\OneDrive\Desktop\SB\Weather and News\Weather and News\obj\Debug\net7.0\scopedcss\projectbundle\Weather and News.bundle.scp.css
+C:\Users\SBB\OneDrive\Desktop\SB\Weather and News\Weather and News\obj\Debug\net7.0\Weather and News.dll
+C:\Users\SBB\OneDrive\Desktop\SB\Weather and News\Weather and News\obj\Debug\net7.0\refint\Weather and News.dll
+C:\Users\SBB\OneDrive\Desktop\SB\Weather and News\Weather and News\obj\Debug\net7.0\Weather and News.pdb
+C:\Users\SBB\OneDrive\Desktop\SB\Weather and News\Weather and News\obj\Debug\net7.0\Weather and News.genruntimeconfig.cache
+C:\Users\SBB\OneDrive\Desktop\SB\Weather and News\Weather and News\obj\Debug\net7.0\ref\Weather and News.dll
